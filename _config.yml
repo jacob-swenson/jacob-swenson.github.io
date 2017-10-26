@@ -8,8 +8,7 @@
 # Site settings
 title: fsck blogs
 email: jswenson91@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Checking life's filesystem
+description: Checking life's filesystem
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jswenson91
